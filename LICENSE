@@ -1,0 +1,8 @@
+# License overview
+
+This repository uses separate licenses for software/documentation and visual assets:
+
+- Code, documentation, manifests, and generation prompts: see `LICENSE-CODE` (MIT).
+- Original PNG, GIF, and WebP visual assets: see `LICENSE-ASSETS` (CC BY-NC 4.0).
+
+These licenses do not grant rights to third-party names, trademarks, trade dress, or publicity rights. Chef 30 is an unofficial fan project and is not endorsed by Stephen Curry, the NBA, the Golden State Warriors, OpenAI, or their affiliates.

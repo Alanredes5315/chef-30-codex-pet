@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet Chef 30.
+
+Pet identity: Original chibi pixel-art basketball superstar inspired by Stephen Curry: warm medium-brown skin, short dark curls with fade, close beard, bright eyes and clear mouthguard, blue-and-gold number 30 uniform without team names or logos, white shoes, orange basketball. Signature actions: crossover dribble, three-point jump shot, follow-through, and playful night-night celebration. Preserve right-handed ball logic and correctly oriented number 30..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `pixel`: Pixel-art-adjacent digital mascot with a chunky silhouette, simple dark outline, limited palette, flat cel shading, and visible stepped edges. User style notes: Premium crisp 32-bit pixel art, strong silhouette, expressive face, no logos, no detached effects, consistent character proportions and palette across every frame..
+
+
+Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #FF00FF and close colors out of the pet, props, highlights, and effects.

@@ -1,0 +1,14 @@
+{
+  "verdict": "pass",
+  "baseline": "Chef-30-Codex-Pet v2",
+  "candidate": "Chef-30-Codex-Pet v2.1",
+  "cell_width": 192,
+  "cell_height": 208,
+  "hover_row": 4,
+  "hover_frame_count": 5,
+  "hover_frames_pixel_identical": true,
+  "hover_frame_sha256": "e695579859dbcd0d664cedfc732bada95d8f2c469bdf95ae6fa7164e9207ad07",
+  "changed_pixels_by_row": [0, 0, 0, 0, 71527, 0, 0, 0, 0, 0, 0],
+  "non_hover_rows_unchanged": true,
+  "atlas_sha256": "2ce80711f996da1585e475df717cb6a4352235957f865f07e71f05d21ba227ae"
+}

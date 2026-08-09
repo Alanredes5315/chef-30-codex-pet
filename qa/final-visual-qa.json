@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "verdict": "pass",
+  "reviewer": "independent visual QA worker",
+  "core_rows": {
+    "verdict": "pass",
+    "note": "All 9 rows have correct semantics and frame counts, readable motion, consistent Chef 30 identity, correct left/right travel, and no visible clipping, detached effects, shadows, guide marks, or scale pops."
+  },
+  "look_directions": {
+    "verdict": "pass",
+    "note": "All 16 directions preserve identity and the fixed clockwise quadrant and cardinal order."
+  },
+  "accepted_warnings": [
+    "The 247.5-degree vertical cue is subtle but visible in the ordered normal-size loop.",
+    "Pixel-diff outliers at 157.5-to-180 and 337.5-to-000 do not produce a visible snap, reversal, registration jump, scale pop, or identity change."
+  ],
+  "repair_rows": []
+}

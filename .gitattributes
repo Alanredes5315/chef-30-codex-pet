@@ -1,0 +1,8 @@
+*.gif binary
+*.png binary
+*.webp binary
+*.zip binary
+
+install.command text eol=lf
+*.md text eol=lf
+*.json text eol=lf

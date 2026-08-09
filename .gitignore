@@ -1,0 +1,8 @@
+.DS_Store
+*.bak
+*.zip
+work/
+
+# Local generation bookkeeping can contain absolute workstation paths.
+qa/run-summary.json
+qa/chroma-despill.json

@@ -1,0 +1,17 @@
+{
+  "verdict": "pass",
+  "hover_stability": "The five used hover cells are pixel-identical; the rendered GIF collapses to a single frame, so remaining hovered is completely still.",
+  "identity": "Hair, beard, blue-and-gold number 30 uniform, proportions, face, and basketball-hand connection match the other rows.",
+  "artifacts": {
+    "baseline": "consistent",
+    "transparency": "pass",
+    "cropping": "none",
+    "other_rows": "unchanged and visually normal",
+    "blocking_issues": []
+  },
+  "notes": [
+    "The original large crouch, airborne shot, landing, and celebration motion caused the rapid-loop impression.",
+    "The replacement enters one calm shooting-pocket hold and stays still while the pointer remains over the pet.",
+    "Final atlas validation reports ok=true with no errors or warnings."
+  ]
+}
